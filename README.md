@@ -54,3 +54,4 @@ During this courses I tested:
 
 * [manual testing](https://github.com/AgaJot/challenge_portfolio_aga)
 * [automatic testing](https://github.com/AgaJot/challenge_portfolio_TA_aga)
+* [robot framework](https://github.com/AgaJot/panelscout_robotframework)
