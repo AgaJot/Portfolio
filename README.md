@@ -51,5 +51,5 @@ During this courses I tested:
     
 ## GitHub repositories
 
-[manual testing] (https://github.com/AgaJot/challenge_portfolio_aga)
-[automatic testing] (https://github.com/AgaJot/challenge_portfolio_TA_aga)
+[manual testing](https://github.com/AgaJot/challenge_portfolio_aga)
+[automatic testing](https://github.com/AgaJot/challenge_portfolio_TA_aga)
