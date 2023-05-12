@@ -37,17 +37,18 @@ During this courses I tested:
   - mobile application Focusly - for wellbeing practices (manual tests)
 
 ## Examples of my works
-  Test cases and reported bugs:
+  Test cases and bugs reports:
   
-   * [No.1](https://drive.google.com/drive/folders/19m38Ipmbk0c3RcvyCz4pK36jrv8c4u58)
-   * [No.2](https://drive.google.com/drive/folders/1206sPi4TkLziSeA1Nthe3fcN6QCzZqOg)
-   * [No.3](https://drive.google.com/drive/folders/1rD_Ht-EJYMxw2vPzt8TxDD7p4_8vmOb_)
-   * [No.4](https://drive.google.com/drive/folders/1z1aZIO9vKAE_Ez6i0xgiWUe7BU0ZGokb)
+   * [TC.01](https://drive.google.com/drive/folders/13_F1s5Fg_JhaknmUG9k6TKUT3JyxZjKa)
+   * [TC.02](https://drive.google.com/drive/folders/1rD_Ht-EJYMxw2vPzt8TxDD7p4_8vmOb_)
+   * [Bugs_Reports.01](https://drive.google.com/drive/folders/17VuxJs-AFfFzCym-FDbFs5rqyX8Id3os)
+   * [Bugs_Reports.02](https://drive.google.com/drive/folders/1206sPi4TkLziSeA1Nthe3fcN6QCzZqOg)
+   * [Bugs_Reports.03](https://drive.google.com/drive/folders/1RSaXQqCt-jzYAJAvGrkDphzlb6X2Is7x)
   
   Test reports:
   
-   * [report 1](https://docs.google.com/spreadsheets/d/1C0tZBalNDM8EGlhELrbOCa7-YdIxGgdL/edit#gid=570795626)
-   * [report 2](https://docs.google.com/spreadsheets/d/1hOoedQiopQIAQ_oklgK3v-sblS8pf0j7/edit#gid=570795626)
+   * [report.01](https://docs.google.com/spreadsheets/d/1C0tZBalNDM8EGlhELrbOCa7-YdIxGgdL/edit#gid=570795626)
+   * [report.02](https://docs.google.com/spreadsheets/d/1hOoedQiopQIAQ_oklgK3v-sblS8pf0j7/edit#gid=570795626)
     
 ## GitHub repositories
 
