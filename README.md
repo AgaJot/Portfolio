@@ -36,7 +36,7 @@ During this courses I tested:
   - web application Scouts Panel - for managing football players and matches (maual and automatic tests) 
   - mobile application Focusly - for wellbeing practices (manual tests)
 
-## Examples of my work
+## Examples of my works
   Test cases and bugs:
   
     - https://drive.google.com/drive/folders/19m38Ipmbk0c3RcvyCz4pK36jrv8c4u58
