@@ -46,8 +46,10 @@ During this courses I tested:
   
   Reports:
   
-    - https://docs.google.com/spreadsheets/d/1C0tZBalNDM8EGlhELrbOCa7-YdIxGgdL/edit#gid=570795626
+    - (https://docs.google.com/spreadsheets/d/1C0tZBalNDM8EGlhELrbOCa7-YdIxGgdL/edit#gid=570795626)
     - https://docs.google.com/spreadsheets/d/1hOoedQiopQIAQ_oklgK3v-sblS8pf0j7/edit#gid=570795626
     
 ## GitHub repositories
 
+[manual testing] (https://github.com/AgaJot/challenge_portfolio_aga)
+[automatic testing] (https://github.com/AgaJot/challenge_portfolio_TA_aga)
