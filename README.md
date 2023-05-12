@@ -4,7 +4,7 @@ My name is Agnieszka Jaglarska. For over 15 years I have been working in the fie
 
 Below I collected my first experiences. 
 
-## Tools
+## Tools and Technologies
 * GitHub
 * GitHub desktop
 * DevTools
